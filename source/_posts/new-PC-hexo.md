@@ -14,7 +14,15 @@ categories:
 `git remote add origin git@github.com:yourusername/test.git` //连接仓库
 `ssh -T git@github.com` //测试是否登录Github
 `git pull origin master` //拉取Github数据
+
 修改添加删除你的仓库数据后
+
 `git add .` //把整个文件夹添加进缓存
 `git commit -m "版本备注"` //添加版本备注信息，注意备注不能为空
 `git push -u origin master` //推送新版至你的仓库
+
+如果在操作hexo命令时（hexo s）之类的命令时，请务必提前执行如下命令：
+`npm install hexo-server --save`
+如果还是不行，请执行：
+`npm install`
+	
