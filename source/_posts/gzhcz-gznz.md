@@ -63,3 +63,7 @@ categories:
 ## 抵达唐家湾
 经过大约1个小时的轻轨车程，你们将抵达唐家湾车站，然后我们就可以回家啦
 ![唐家湾站.jpg](https://i.loli.net/2019/08/08/FY8loUEyOzHcxLV.jpg)
+
+----------
+祝愿一切平安呀~~~
+![平安.jpg](https://i.loli.net/2019/08/08/e5dLsPzQBlH3V9O.jpg)
