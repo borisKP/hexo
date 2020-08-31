@@ -13,6 +13,8 @@ categories:
 之前看了坛子里大神的帖子，相信很多小伙伴与我一样，肯定安耐不住希望自己做种自己发布了吧？
 我也是看了PT贴吧老哥的操作，才学会了上传的基本操作。
 
+<!--more-->
+
 奈何~手里只有一台安装了transmission的群晖，我又经常不在局域网内，故想是否能用transmission进行做种呢？
 研究捯饬了一番，在司机老哥@hanwen的帮助下，又在transmission的官网[Wiki](https://help.ubuntu.com/community/TransmissionHowTo "Wiki")中查到了transmission做种的方法，现在分享给大家。
 > 注意！此方法仅限于可编译的SHH环境，不管你是路由器，小钢炮，群晖，还是自购VPS，一定要有ROOT权限！建议全程使用putty进行，如何使用自行百度，不在本次讨论内！

@@ -1,0 +1,8 @@
+{
+  "ignore": {
+    "hexo-deployer-git": {
+      "versions": "2.1.0",
+      "reason": ""
+    }
+  }
+}

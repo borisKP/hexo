@@ -15,6 +15,8 @@ categories:
 `ssh -T git@github.com` //测试是否登录Github
 `git pull origin master` //拉取Github数据
 
+<!--more-->
+
 修改添加删除你的仓库数据后
 
 `git add .` //把整个文件夹添加进缓存

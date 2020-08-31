@@ -10,6 +10,9 @@ categories:
 相信很多小伙伴都有如下的经历：
 在TR或者UT之类的BT客户端上，打开了一个`.torrent`种子，下载非常缓慢，经常处于10KB/S到100KB/S的区间，有时候甚至没有速度，每次打开PC就挂着这个种子，时间久了，也许就没有了下载的动力…………
 有的种子还好，全网努力搜索，还可能找到一些替代品；但有的种子，你无论如何都找不到可以替代的，又是那种非常古老的稀缺资源。这个时候你就需要**trackerslist**的出场了。
+
+<!--more-->
+
 ## trackerslist ##
 **[trackerslist](https://github.com/ngosang/trackerslist)**是GitHub上，一位西班牙程序员*Diego Heras*制作的表单，这个list中含有现今世界上绝大多数的明文Trackers服务器链接地址。如果你的种子没有速度，可以尝试添加上这个表单中的Trackers，没准可以让你的种子活下去~
 
