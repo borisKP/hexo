@@ -4,6 +4,8 @@
 
 ## 2020年 ##
 
+- 09-01 hexo版本更新报错： "external_link"
+- 09-01 解决Github打不开问题
 - 08-28 LSI 9217-8i HBA阵列卡 介绍 以及 卡刷 IT/IR 模式
 - 08-17 用hexo搭建github博客详细全图解-转自简书
 
