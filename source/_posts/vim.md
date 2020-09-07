@@ -84,7 +84,7 @@ vim XXX**你的文件名称**
 
 
   [1]: http://baike.baidu.com/view/573462.htm
-  [2]: http://ico.ooopic.com/ajax/iconpng/?id=105247.png
+  [2]: https://i.loli.net/2020/09/01/s6ajbqQfUiEnLmK.jpg
   [3]: http://baike.baidu.com/subview/113188/9338173.htm
   [4]: http://vim.wikia.com/wiki/Main_Page
   [5]: http://www.runoob.com/wp-content/uploads/2015/10/vi-vim-cheat-sheet-sch.gif
