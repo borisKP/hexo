@@ -52,7 +52,7 @@ categories:
 
 ```cmd
 cd #完整解压缩目录
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
@@ -61,9 +61,9 @@ pip3 install -r requirements.txt
 
 ```cmd
 #输入订阅地址
-python3 main.py -u https://xxx.xxx.xxx
+python main.py -u https://xxx.xxx.xxx
 #键入配置文件路径
-python3 main.py -c \xxx\xxx\gui-config.json
+python main.py -c \xxx\xxx\gui-config.json
 ```
 
 - 然后根据提示进行操作即可，测试完成之后会输出.png的测试图，位于results文件夹内。
@@ -78,7 +78,7 @@ python3 main.py -c \xxx\xxx\gui-config.json
 - 首先需要检查Python版本是否符合要求，输出Python版本号大于3.6即可
 
 ```shell
-root@Ubuntu:# python3
+root@Ubuntu:# python
 Python 3.6.7 (default, Oct 22 2018, 11:32:17) 
 ```
 
@@ -145,3 +145,35 @@ python3 main.py -c \xxx\xxx\gui-config.json
 
 ![Snipaste_2020-09-07_18-05-56.png](https://i.loli.net/2020/09/07/UJRlhYsP2xTdLFo.png)
 
+
+PS：
+**每次测速都要输入代码，感觉麻烦，故自己做了一份.bat脚本，请有需要的人自己获取。**
+
+**新建文本，拷贝如下代码，改名为speed.bat,并放置在SSRSpeed文件夹根目录下即可。**
+
+```CMD
+@TITLE BAT脚本-SSRSpeed测速-自动化
+@COLOR A
+@MODE CON: COLS=80 LINES=24
+@echo.
+@echo    ----------------------------------
+@echo.
+@echo		SSRSpeed-Speedtest automation script
+@echo.
+@echo		Based on:SSRSpeed-Python
+@echo.
+@echo    ----------------------------------
+@echo.
+@echo.
+@echo		Powered By B.B
+@echo.
+@echo.
+@echo.
+@echo.
+@pause
+@echo off
+python main.py -u https://xxx.xxx.xxx
+@COLOR A
+:: 注意：请把https://xxx.xxx.xxx变更为你需要测速的订阅地址
+@cmd /k
+```
