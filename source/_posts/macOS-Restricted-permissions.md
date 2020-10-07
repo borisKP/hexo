@@ -32,7 +32,11 @@ sudo spctl --master-disable
 
 "打开系统偏好设置-安全性与隐私，就可以看到允许从以下位置下载的APP来源"
 
+![1.png](https://i.loli.net/2020/09/19/HWOqdF6zgEI8bUp.png)
+
 勾选任何来源(如需要修改需要先点击左下角的解锁功能后才可以哦）
+
+![2.png](https://i.loli.net/2020/09/19/dK3Y7UTF2jtDufW.png)
 
 ### 3.开启Mac的任何来源功能后，再次安装下载好的APP，就不会提示文件损坏了。 ###
 
