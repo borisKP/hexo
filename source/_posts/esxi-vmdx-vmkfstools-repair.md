@@ -38,7 +38,9 @@ categories:
 
 # 3. 登陆SSH输入命令
 
-非正常关机导致vmdk损坏，需要通过`vmkfstools`终端命令进行修复。
+非正常关机导致vmdk损坏，需要通过[`vmkfstools`](https://docs.vmware.com/cn/VMware-vSphere/7.0/com.vmware.vsphere.storage.doc/GUID-5C413B5E-947E-45B7-90D0-A651863DED18.html)终端命令进行修复。
+
+> *vmkfstools 是用于管理 VMFS 卷、存储设备和虚拟磁盘的 ESXi Shell 命令之一。可以使用 vmkfstools 命令执行很多存储操作。例如，可以在物理分区上创建和管理 VMFS 数据存储，或操作 VMFS 或 NFS 数据存储中存储的虚拟磁盘文件。*
 
 ## 3.1 开启ssh并确认使用vmkfstools命令检查
 
