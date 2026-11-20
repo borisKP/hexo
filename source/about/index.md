@@ -13,4 +13,8 @@ aboriskk#gmail.com  (#-@)
 
 
 
+## 内容许可
+
+本站原创文章采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可；转载及第三方内容归原作者所有；代码以各仓库 LICENSE 为准。
+
 ![code.jpg](https://i.loli.net/2019/08/08/FwV1qXfnYNgmy62.jpg)
